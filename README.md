@@ -1,6 +1,8 @@
 Detta är ett rymdspel 
 
 Cheaklist
+
+* Länka unity project med varandra via github
 _________
 
 Fysik
